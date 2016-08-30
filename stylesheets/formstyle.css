@@ -1,7 +1,9 @@
 
 .form-position{
- width: 300px;
- margin: 0 auto;
+   position:fixed;
+   top:50%;
+   left:50%;
+   width:200px;
 }
 
 .form-container {
