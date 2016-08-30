@@ -1,4 +1,6 @@
 .form-container {
+   margin: 0 auto; 
+   width:250px;
    border: 0px solid #000000;
    background: #242424;
    background: -webkit-gradient(linear, left top, left bottom, from(#6b6e6a), to(#242424));
