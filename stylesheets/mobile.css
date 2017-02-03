@@ -53,17 +53,7 @@ header, footer, section {
   position: relative;
 }
 
-/* STYLES */
 
-div.shell {
-  display: block;
-  width: 640px;
-  margin: 0 auto;
-}
-
-a#forkme_banner {
-  display: none;
-}
 
 /* header */
 
@@ -75,14 +65,7 @@ header {
   top: 51px;
 }
 
-header span.ribbon-inner {
-  position: relative;
-  display: block;
-  background-color: #cd596b;
-  border: 8px solid #7c334f;
-  padding: 6px;
-  z-index: 1;
-}
+
 
 header span.left-tail, header span.right-tail {
   position: relative;
